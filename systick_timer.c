@@ -8,9 +8,6 @@
 
 #include "systick_timer.h"
 
-#include <stdio.h>
-#include <stdlib.h>
-
 /* ------------------------------------------------------------------------------------------------------
  * Name		:	init_SysTick_Timer
  * Description	:	Initialize the SysTick Timer
