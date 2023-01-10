@@ -14,7 +14,7 @@ A GPIO is toggled at every SysTick Exception.
 </br>
 
 `Analyzer Screenshot`
-![analyzer](Others\analyzer.png)
+![analyzer](SysTick_Timer\Others\analyzer.png)
 
 The desired time interval between toggling was 100ms, as set in the init_SysTick_Timer, and we got 99.832ms.
 
